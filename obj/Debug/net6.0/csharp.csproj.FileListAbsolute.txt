@@ -1,0 +1,30 @@
+C:\Users\gabri\OneDrive\Área de Trabalho\csharp\bin\Debug\net6.0\csharp.exe
+C:\Users\gabri\OneDrive\Área de Trabalho\csharp\bin\Debug\net6.0\csharp.deps.json
+C:\Users\gabri\OneDrive\Área de Trabalho\csharp\bin\Debug\net6.0\csharp.runtimeconfig.json
+C:\Users\gabri\OneDrive\Área de Trabalho\csharp\bin\Debug\net6.0\csharp.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\csharp\bin\Debug\net6.0\csharp.pdb
+C:\Users\gabri\OneDrive\Área de Trabalho\csharp\obj\Debug\net6.0\csharp.csproj.AssemblyReference.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\csharp\obj\Debug\net6.0\csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\OneDrive\Área de Trabalho\csharp\obj\Debug\net6.0\csharp.AssemblyInfoInputs.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\csharp\obj\Debug\net6.0\csharp.AssemblyInfo.cs
+C:\Users\gabri\OneDrive\Área de Trabalho\csharp\obj\Debug\net6.0\csharp.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\csharp\obj\Debug\net6.0\csharp.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\csharp\obj\Debug\net6.0\refint\csharp.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\csharp\obj\Debug\net6.0\csharp.pdb
+C:\Users\gabri\OneDrive\Área de Trabalho\csharp\obj\Debug\net6.0\csharp.genruntimeconfig.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\csharp\obj\Debug\net6.0\ref\csharp.dll
+C:\Users\gabri\OneDrive\Documentos\csharp\obj\Debug\net6.0\csharp.csproj.AssemblyReference.cache
+C:\Users\gabri\OneDrive\Documentos\csharp\obj\Debug\net6.0\csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\OneDrive\Documentos\csharp\obj\Debug\net6.0\csharp.AssemblyInfoInputs.cache
+C:\Users\gabri\OneDrive\Documentos\csharp\obj\Debug\net6.0\csharp.AssemblyInfo.cs
+C:\Users\gabri\OneDrive\Documentos\csharp\obj\Debug\net6.0\csharp.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Documentos\csharp\obj\Debug\net6.0\csharp.dll
+C:\Users\gabri\OneDrive\Documentos\csharp\obj\Debug\net6.0\refint\csharp.dll
+C:\Users\gabri\OneDrive\Documentos\csharp\obj\Debug\net6.0\csharp.pdb
+C:\Users\gabri\OneDrive\Documentos\csharp\bin\Debug\net6.0\csharp.exe
+C:\Users\gabri\OneDrive\Documentos\csharp\bin\Debug\net6.0\csharp.deps.json
+C:\Users\gabri\OneDrive\Documentos\csharp\bin\Debug\net6.0\csharp.runtimeconfig.json
+C:\Users\gabri\OneDrive\Documentos\csharp\bin\Debug\net6.0\csharp.dll
+C:\Users\gabri\OneDrive\Documentos\csharp\bin\Debug\net6.0\csharp.pdb
+C:\Users\gabri\OneDrive\Documentos\csharp\obj\Debug\net6.0\csharp.genruntimeconfig.cache
+C:\Users\gabri\OneDrive\Documentos\csharp\obj\Debug\net6.0\ref\csharp.dll
